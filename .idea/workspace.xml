@@ -1,0 +1,973 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="b7143b97-0b8a-4903-8d91-c1c7ad511f1c" name="Default Changelist" comment="" />
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/../../WEB/travel/target/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FUSProjectUsageTrigger">
+    <session id="384134929">
+      <usages-collector id="statistics.lifecycle.project">
+        <counts>
+          <entry key="project.closed" value="33" />
+          <entry key="project.open.time.0" value="3" />
+          <entry key="project.open.time.1" value="14" />
+          <entry key="project.open.time.14" value="1" />
+          <entry key="project.open.time.2" value="4" />
+          <entry key="project.open.time.3" value="2" />
+          <entry key="project.open.time.4" value="1" />
+          <entry key="project.open.time.43" value="1" />
+          <entry key="project.open.time.45" value="1" />
+          <entry key="project.open.time.46" value="1" />
+          <entry key="project.open.time.47" value="1" />
+          <entry key="project.open.time.52" value="1" />
+          <entry key="project.open.time.58" value="1" />
+          <entry key="project.open.time.61" value="1" />
+          <entry key="project.open.time.70" value="1" />
+          <entry key="project.open.time.74" value="1" />
+          <entry key="project.opened" value="34" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.open">
+        <counts>
+          <entry key="class" value="3" />
+          <entry key="iml" value="2" />
+          <entry key="java" value="200" />
+          <entry key="jpg" value="1" />
+          <entry key="properties" value="10" />
+          <entry key="txt" value="2" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.open">
+        <counts>
+          <entry key="CLASS" value="3" />
+          <entry key="IDEA_MODULE" value="2" />
+          <entry key="Image" value="1" />
+          <entry key="JAVA" value="200" />
+          <entry key="PLAIN_TEXT" value="2" />
+          <entry key="Properties" value="10" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.extensions.edit">
+        <counts>
+          <entry key="dummy" value="33" />
+          <entry key="java" value="32643" />
+          <entry key="properties" value="300" />
+          <entry key="txt" value="26" />
+        </counts>
+      </usages-collector>
+      <usages-collector id="statistics.file.types.edit">
+        <counts>
+          <entry key="JAVA" value="32643" />
+          <entry key="PLAIN_TEXT" value="59" />
+          <entry key="Properties" value="300" />
+        </counts>
+      </usages-collector>
+    </session>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo/FunInterface.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="180">
+              <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo/FunInterfaceImpl.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="240">
+              <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo1/SupplierDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="810">
+              <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo2/ConsumerDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="480">
+              <caret line="18" selection-start-line="18" selection-end-line="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day32_反射/src/cn/wangbowen/demo/ConstructDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="690">
+              <caret line="40" selection-start-line="40" selection-end-line="40" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo/InetAddressDemo.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="210">
+              <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo2/TCPClient.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="540">
+              <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo2/TCPServer.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo2/TCPThread.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="330">
+              <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo2/ConsumerDemo1.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="450">
+              <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="package-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <replaceStrings>
+      <replace>writeObject</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/day27_多线程/src/cn/wangbowen/demo4/DeathLockDemo.java" />
+        <option value="$PROJECT_DIR$/day27_多线程/src/cn/wangbowen/demo5/WaitNotifyDemo.java" />
+        <option value="$PROJECT_DIR$/day27_多线程/src/cn/wangbowen/demo5/Recourse.java" />
+        <option value="$PROJECT_DIR$/day27_多线程/src/cn/wangbowen/demo5/InputDemo.java" />
+        <option value="$PROJECT_DIR$/day27_多线程/src/cn/wangbowen/demo5/OutputDemo.java" />
+        <option value="$PROJECT_DIR$/day29_JDBC/src/cn/wangbowen/demo/JDBCDemo.java" />
+        <option value="$PROJECT_DIR$/day29_JDBC/src/db.properties" />
+        <option value="$PROJECT_DIR$/day29_JDBC/src/cn/wangbowen/jdbcutils/JDBCUtilsTest.java" />
+        <option value="$PROJECT_DIR$/day23_IO/src/cn/wangbowen/copy/FileCopy.java" />
+        <option value="$PROJECT_DIR$/day26_多线程/src/cn/wangbowen/demo5/ThreadPoolDemo.java" />
+        <option value="$PROJECT_DIR$/day29_JDBC/src/cn/wangbowen/jdbcutils/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/day30_DBCP/src/preView.java" />
+        <option value="$PROJECT_DIR$/day29_JDBC/src/cn/wangbowen/demo/JDBCDemo1.java" />
+        <option value="$PROJECT_DIR$/day30_DBUtils/src/jdbcutils/JDBCUtilsTest.java" />
+        <option value="$PROJECT_DIR$/day30_DBUtils/src/cn/wangbowen/dbutils/JDBCUtils.java" />
+        <option value="$PROJECT_DIR$/day30_DBUtils/src/cn/wangbowen/bean/Sort.java" />
+        <option value="$PROJECT_DIR$/day30_DBUtils/src/cn/wangbowen/demo/DBUtilDemo.java" />
+        <option value="$PROJECT_DIR$/day30_DBCP/src/db.properties" />
+        <option value="$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/inetaddress/InetAddressDemo.java" />
+        <option value="$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo/InetAddressDemo.java" />
+        <option value="$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo1/UDPClient.java" />
+        <option value="$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo1/UDPSend.java" />
+        <option value="$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo1/UDPReceive.java" />
+        <option value="$PROJECT_DIR$/TCP.txt" />
+        <option value="$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo2/TCPThread.java" />
+        <option value="$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo2/TCPServer.java" />
+        <option value="$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo2/TCPClient.java" />
+        <option value="$PROJECT_DIR$/day30_DBCP/src/cn/wangbowen/dbcputils/DBCPUtilsTest.java" />
+        <option value="$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo/FunInterface.java" />
+        <option value="$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo1/SupplierDemo.java" />
+        <option value="$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo3/PredicateDemo.java" />
+        <option value="$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo2/ConsumerDemo2.java" />
+        <option value="$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo3/PredicateDemo1.java" />
+        <option value="$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo4/FunctionDemo.java" />
+        <option value="$PROJECT_DIR$/day34_Stream流/src/cn/wangbowen/demo/StreamDemo.java" />
+        <option value="$PROJECT_DIR$/day34_Stream流/src/cn/wangbowen/demo1/ForEach_Count.java" />
+        <option value="$PROJECT_DIR$/day34_Stream流/src/cn/wangbowen/demo2/Demo.java" />
+        <option value="$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo/FunInterfaceImpl.java" />
+        <option value="$PROJECT_DIR$/day35_JUnit单元测试/src/cn/wangbowen/junit/Calculator.java" />
+        <option value="$PROJECT_DIR$/day35_JUnit单元测试/src/cn/wangbowen/test/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/day36_JUnit单元测试/src/cn/wangbowen/test/CalculatorTest.java" />
+        <option value="$PROJECT_DIR$/day32_反射/src/cn/wangbowen/demo/FieldDemo.java" />
+        <option value="$PROJECT_DIR$/day32_反射/src/cn/wangbowen/demo/ConstructDemo.java" />
+        <option value="$PROJECT_DIR$/day32_反射/src/cn/wangbowen/demo/Person.java" />
+        <option value="$PROJECT_DIR$/day32_反射/src/cn/wangbowen/demo/MethodDemo.java" />
+        <option value="$PROJECT_DIR$/day30_Druid/src/druid.properties" />
+        <option value="$PROJECT_DIR$/day30_Druid/src/cn/wangbowen/druid/DruidDemo.java" />
+        <option value="$PROJECT_DIR$/day30_DBCP/src/cn/wangbowen/dbcputils/DBCPUtils.java" />
+        <option value="$PROJECT_DIR$/day30_Druid_JDBCTemplate/src/cn/wangbowen/jdbctemplate/JdbcTemplateDemo1.java" />
+        <option value="$PROJECT_DIR$/day30_Druid_JDBCTemplate/src/druid.properties" />
+        <option value="$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo2/ConsumerDemo.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="MavenProjectNavigator">
+    <treeState>
+      <expand />
+      <select />
+    </treeState>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="400" />
+    <option name="y" value="44" />
+    <option name="width" value="1674" />
+    <option name="height" value="1057" />
+  </component>
+  <component name="ProjectInspectionProfilesVisibleTreeState">
+    <entry key="Project Default">
+      <profile-state>
+        <expanded-state>
+          <State />
+          <State>
+            <id>Internationalization</id>
+          </State>
+        </expanded-state>
+        <selected-state>
+          <State>
+            <id>LossyEncoding</id>
+          </State>
+        </selected-state>
+      </profile-state>
+    </entry>
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="PackagesPane" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="JAVASE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVASE" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVASE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="JAVASE" type="462c0819:PsiDirectoryNode" />
+              <item name="day32_反射" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVASE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travel" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVASE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="JAVASE" type="b2602c69:ProjectViewProjectNode" />
+              <item name="travel" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="Downloaded.Files.Path.Enabled" value="false" />
+    <property name="Repository.Attach.JavaDocs" value="false" />
+    <property name="Repository.Attach.Sources" value="false" />
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.android.tools.idea.instantapp.provision.ProvisionBeforeRunTaskProvider.myTimeStamp" value="1556177355873" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="editor.preferences.fonts.default" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\IDEA_Project\JAVE\JAVASE\day30_DBUtils\src" />
+    </key>
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="cn.wangbowen.bean" />
+      <recent name="cn.wangbowen.dbutils" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="D:\IDEA_Project\JAVE\JAVASE\day30_Druid\lib" />
+      <recent name="D:\IDEA_Project\JAVE\JAVASE\day30_Druid\src" />
+      <recent name="D:\IDEA_Project\JAVE\JAVASE" />
+      <recent name="D:\IDEA_Project\JAVE\JAVASE\day30_DBUtils\src\cn\wangbowen\dbutils" />
+      <recent name="D:\IDEA_Project\JAVE\JAVASE\day30_DBUtils\src" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.DruidDemo">
+    <configuration name="ConstructDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wangbowen.demo.ConstructDemo" />
+      <module name="day32_反射" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wangbowen.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="DruidDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wangbowen.druid.DruidDemo" />
+      <module name="day30_Druid_JDBCTemplate" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wangbowen.druid.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="FieldDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wangbowen.demo.FieldDemo" />
+      <module name="day32_反射" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wangbowen.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="MethodDemo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="cn.wangbowen.demo.MethodDemo" />
+      <module name="day32_反射" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wangbowen.demo.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="CalculatorTest.testAdd" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <module name="day36_JUnit单元测试" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="cn.wangbowen.test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="cn.wangbowen.test" />
+      <option name="MAIN_CLASS_NAME" value="cn.wangbowen.test.CalculatorTest" />
+      <option name="METHOD_NAME" value="testAdd" />
+      <option name="TEST_OBJECT" value="method" />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="JUnit.CalculatorTest.testAdd" />
+      <item itemvalue="Application.FieldDemo" />
+      <item itemvalue="Application.ConstructDemo" />
+      <item itemvalue="Application.MethodDemo" />
+      <item itemvalue="Application.DruidDemo" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.DruidDemo" />
+        <item itemvalue="Application.MethodDemo" />
+        <item itemvalue="Application.ConstructDemo" />
+        <item itemvalue="Application.FieldDemo" />
+        <item itemvalue="JUnit.CalculatorTest.testAdd" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="b7143b97-0b8a-4903-8d91-c1c7ad511f1c" name="Default Changelist" comment="" />
+      <created>1549697106353</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1549697106353</updated>
+      <workItem from="1549697107976" duration="34879000" />
+      <workItem from="1549878584826" duration="4240000" />
+      <workItem from="1549951947970" duration="2886000" />
+      <workItem from="1549965628974" duration="13942000" />
+      <workItem from="1550129606100" duration="11230000" />
+      <workItem from="1550158942807" duration="953000" />
+      <workItem from="1550159910599" duration="417000" />
+      <workItem from="1550216710451" duration="6887000" />
+      <workItem from="1550234995531" duration="9448000" />
+      <workItem from="1550394191651" duration="13679000" />
+      <workItem from="1550470932933" duration="601000" />
+      <workItem from="1550495625992" duration="82000" />
+      <workItem from="1550573111254" duration="2008000" />
+      <workItem from="1550756374423" duration="2991000" />
+      <workItem from="1550760820776" duration="3479000" />
+      <workItem from="1550838614398" duration="4049000" />
+      <workItem from="1550986588086" duration="1000" />
+      <workItem from="1551082009640" duration="606000" />
+      <workItem from="1551085883162" duration="9656000" />
+      <workItem from="1551169448967" duration="10000" />
+      <workItem from="1551170588692" duration="10472000" />
+      <workItem from="1551256537435" duration="4274000" />
+      <workItem from="1551421186880" duration="260000" />
+      <workItem from="1552019409659" duration="1834000" />
+      <workItem from="1552021708584" duration="1524000" />
+      <workItem from="1552027515747" duration="2340000" />
+      <workItem from="1552103368532" duration="25000" />
+      <workItem from="1552659375051" duration="430000" />
+      <workItem from="1552738965194" duration="2000" />
+      <workItem from="1554974640522" duration="14000" />
+      <workItem from="1556087396779" duration="1064000" />
+      <workItem from="1556173427865" duration="430000" />
+      <workItem from="1556174015854" duration="607000" />
+      <workItem from="1556174712259" duration="2223000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="CalculatorTest_testAdd - 2019.02.26 at 21h 21m 39s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testAdd - 2019.02.26 at 21h 21m 55s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testAdd - 2019.02.26 at 21h 22m 04s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testAdd - 2019.02.26 at 21h 30m 26s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testAdd - 2019.02.26 at 21h 30m 44s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="CalculatorTest_testAdd - 2019.02.26 at 21h 31m 16s.xml">
+      <configuration name="CalculatorTest.testAdd" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="147543000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="-8" width="1936" height="1066" extended-state="6" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.18496802" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Image Layers" order="2" />
+      <window_info id="Designer" order="3" />
+      <window_info id="UI Designer" order="4" />
+      <window_info id="Capture Tool" order="5" />
+      <window_info id="Favorites" order="6" side_tool="true" />
+      <window_info id="Web" order="7" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.2426869" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.39914164" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" />
+      <window_info anchor="bottom" id="Version Control" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Database Changes" order="8" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Terminal" order="9" weight="0.32939914" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Messages" order="11" weight="0.32725322" />
+      <window_info anchor="bottom" id="Spring" order="12" />
+      <window_info anchor="bottom" id="Java Enterprise" order="13" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="Palette" order="3" />
+      <window_info anchor="right" id="Capture Analysis" order="4" />
+      <window_info anchor="right" id="Database" order="5" />
+      <window_info anchor="right" id="Theme Preview" order="6" />
+      <window_info anchor="right" id="Palette&#9;" order="7" />
+      <window_info anchor="right" id="Maven Projects" order="8" weight="0.32995737" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/day30_DBUtils/src/cn/wangbowen/bean/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="13" lean-forward="true" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://$PROJECT_DIR$/day30_DBCP/lib/commons-dbcp-1.4.jar!/org/apache/commons/dbcp/BasicDataSourceFactory.class">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="221">
+          <caret line="79" column="28" selection-start-line="79" selection-start-column="18" selection-end-line="79" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_DBCP/src/cn/wangbowen/bean/Sort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="3" selection-start-line="8" selection-start-column="3" selection-end-line="8" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day29_JDBC/src/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="3" column="16" selection-start-line="3" selection-start-column="16" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day31_网络编程/day31_网络编程.iml">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo1/UDPSend.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="222">
+          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo1/UDPReceive.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="19" column="27" selection-start-line="19" selection-start-column="27" selection-end-line="19" selection-end-column="27" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/TCP.txt" />
+    <entry file="file://$PROJECT_DIR$/upload/JPG_1550404282621446109.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day29_JDBC/src/cn/wangbowen/demo/JDBCDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1050">
+          <caret line="35" column="9" selection-start-line="35" selection-start-column="9" selection-end-line="35" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26_多线程/src/cn/wangbowen/demo5/ThreadPoolCallable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="10" column="41" selection-start-line="10" selection-start-column="32" selection-end-line="10" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26_多线程/src/cn/wangbowen/demo5/ThreadPoolDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="15" column="44" selection-start-line="15" selection-start-column="44" selection-end-line="15" selection-end-column="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26_多线程/src/cn/wangbowen/demo3/ThreadName.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="7" column="34" selection-start-line="7" selection-start-column="34" selection-end-line="7" selection-end-column="34" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26_多线程/src/cn/wangbowen/demo5/ThreadPoolDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="19" selection-start-line="19" selection-end-line="19" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_DBCP/src/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="9" column="10" selection-start-line="9" selection-start-column="10" selection-end-line="9" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_DBCP/src/preView.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="8" selection-start-line="14" selection-start-column="8" selection-end-line="14" selection-end-column="8" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day29_JDBC/src/cn/wangbowen/demo/JDBCDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1020">
+          <caret line="37" column="5" selection-start-line="37" selection-start-column="5" selection-end-line="37" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day26_多线程/src/cn/wangbowen/demo3/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="150">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day29_JDBC/src/cn/wangbowen/jdbcutils/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1620">
+          <caret line="54" column="36" selection-start-line="54" selection-start-column="36" selection-end-line="54" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_DBUtils/src/cn/wangbowen/dbutils/JDBCUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="20" selection-start-line="20" selection-end-line="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day25_IO/src/cn/wangbowen/demo/PropertiesDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="432">
+          <caret line="54" column="14" selection-start-line="54" selection-start-column="14" selection-end-line="54" selection-end-column="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo3/PredicateDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="360">
+          <caret line="12" selection-start-line="12" selection-end-line="12" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo3/PredicateDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="192">
+          <caret line="7" column="3" selection-start-line="7" selection-start-column="3" selection-end-line="7" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo4/FunctionDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="600">
+          <caret line="22" selection-start-line="22" selection-end-line="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day36_JUnit单元测试/src/cn/wangbowen/junit/Calculator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" selection-start-line="13" selection-end-line="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="jar://D:/Java/jdk-1.8.0_11/src.zip!/java/lang/reflect/Method.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="167">
+          <caret line="468" column="18" selection-start-line="468" selection-start-column="18" selection-end-line="468" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day36_JUnit单元测试/src/cn/wangbowen/test/CalculatorTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day32_反射/src/cn/wangbowen/demo/Person.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="870">
+          <caret line="31" column="9" selection-start-line="31" selection-start-column="9" selection-end-line="31" selection-end-column="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day32_反射/src/cn/wangbowen/demo/FieldDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="19" column="24" selection-start-line="19" selection-start-column="24" selection-end-line="19" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day34_Stream流/src/cn/wangbowen/demo/StreamDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="300">
+          <caret line="11" column="21" selection-start-line="11" selection-start-column="21" selection-end-line="11" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day34_Stream流/src/cn/wangbowen/demo1/ForEach_Count.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="420">
+          <caret line="14" column="20" selection-start-line="14" selection-start-column="20" selection-end-line="14" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day34_Stream流/src/cn/wangbowen/demo2/Demo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1080">
+          <caret line="38" column="5" selection-start-line="38" selection-start-column="5" selection-end-line="38" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day32_反射/src/cn/wangbowen/demo/MethodDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="268">
+          <caret line="25" column="30" selection-start-line="25" selection-start-column="30" selection-end-line="25" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_Druid_JDBCTemplate/src/druid.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="10" selection-start-line="8" selection-start-column="10" selection-end-line="8" selection-end-column="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_Druid_JDBCTemplate/src/cn/wangbowen/druid/DruidDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="282">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_DBCP/src/cn/wangbowen/dbcputils/DBCPUtils.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1740">
+          <caret line="70" column="11" selection-start-line="70" selection-start-column="11" selection-end-line="70" selection-end-column="11" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day29_JDBC/src/cn/wangbowen/jdbcutils/JDBCUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="12" column="5" selection-start-line="12" selection-start-column="5" selection-end-line="12" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_DBCP/src/cn/wangbowen/dbcputils/DBCPUtilsTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="11" column="32" selection-start-line="11" selection-start-column="18" selection-end-line="11" selection-end-column="32" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_DBUtils/src/cn/wangbowen/demo/DBUtilDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3480">
+          <caret line="124" selection-start-line="124" selection-end-line="124" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_Druid_JDBCTemplate/src/cn/wangbowen/jdbctemplate/JdbcTemplateDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="840">
+          <caret line="32" column="71" selection-start-line="32" selection-start-column="71" selection-end-line="32" selection-end-column="80" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day30_DBUtils/src/db.properties">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="60">
+          <caret line="2" selection-start-line="2" selection-end-line="3" selection-end-column="16" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo/FunInterface.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="6" column="20" selection-start-line="6" selection-start-column="20" selection-end-line="6" selection-end-column="20" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo/FunInterfaceImpl.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="240">
+          <caret line="8" column="29" selection-start-line="8" selection-start-column="29" selection-end-line="8" selection-end-column="29" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo1/SupplierDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="810">
+          <caret line="27" column="28" selection-start-line="27" selection-start-column="28" selection-end-line="27" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo2/ConsumerDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="480">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day33_函数式编程/src/cn/wangbowen/demo2/ConsumerDemo1.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="450">
+          <caret line="15" column="5" selection-start-line="15" selection-start-column="5" selection-end-line="15" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day32_反射/src/cn/wangbowen/demo/ConstructDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="690">
+          <caret line="40" selection-start-line="40" selection-end-line="40" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo/InetAddressDemo.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="210">
+          <caret line="8" column="30" selection-start-line="8" selection-start-column="30" selection-end-line="8" selection-end-column="30" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo2/TCPClient.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="540">
+          <caret line="22" column="46" selection-start-line="22" selection-start-column="46" selection-end-line="22" selection-end-column="46" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo2/TCPServer.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="13" column="36" selection-start-line="13" selection-start-column="36" selection-end-line="13" selection-end-column="36" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/day31_网络编程/src/cn/wangbowen/demo2/TCPThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="330">
+          <caret line="14" column="22" lean-forward="true" selection-start-line="14" selection-start-column="22" selection-end-line="14" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ArtifactsStructureConfigurable.UI">
+        <settings>
+          <artifact-editor />
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="FacetStructureConfigurable.UI">
+        <settings>
+          <last-edited>No facets are configured</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="GlobalLibrariesConfigurable.UI">
+        <settings>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="JdkListConfigurable.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ModuleStructureConfigurable.UI">
+        <settings>
+          <last-edited>day30_DBCP</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+      <state key="ProjectLibrariesConfigurable.UI">
+        <settings>
+          <last-edited>commons-io-2.4</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>

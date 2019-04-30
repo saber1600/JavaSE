@@ -1,0 +1,13 @@
+<component name="libraryTable">
+  <library name="spring-beans-5.0.0.RELEASE">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/day30_Druid/lib/spring-beans-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day30_Druid/lib/spring-core-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day30_Druid/lib/spring-jdbc-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day30_Druid/lib/spring-tx-5.0.0.RELEASE.jar!/" />
+      <root url="jar://$PROJECT_DIR$/day30_Druid/lib/commons-logging-1.2.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
